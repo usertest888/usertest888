@@ -15,7 +15,7 @@
 
 ### Intelligence Artificial
 ![IBMWatson](https://img.shields.io/badge/IBM%20Watson-02569B?style=for-the-badge&logo=ibm&logoColor=white&style=plastic)
-![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-000?style=for-the-badge&logo=jupyter&logoColor=white&style=plastic)
+![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-000?style=for-the-badge&logo=jupyter&style=plastic)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&style=plastic)
