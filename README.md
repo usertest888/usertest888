@@ -1,3 +1,12 @@
+### Hey 👋, I'm Jack yu.
+
+- I am a **Programming rookie** 
+- I like to use a variety of useful **computer software** and build  **beautiful blog.**
+- I also like **literature, reading and writing.** 
+- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
+- and I also came into contact with **programming**.
+- Although I was **not interested** in it at the beginning,
+- **luckily I slowly fell in love with it. ❤️**
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&style=plastic)
