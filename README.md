@@ -1,8 +1,8 @@
-## Hey 👋, I'm Raissa❤️!
+## Hey 👋, I'm Raissa!
 
-- I am a Front End Developer React.JS and ChatBot Watson Assistant!
-- I'm finishing my computer engineering college at IFF.
-
+- I am a Front End Developer and ChatBot Watson Assistant
+- I'm finishing my computer engineering college at IFF
+- I am passionate and specialized in artificial intelligence for the ChatBot development and I'm also specializing in web/mobile front development using React.js
 
 ## My Knowledge and Skills ⭐
 
