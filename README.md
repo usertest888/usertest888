@@ -34,6 +34,6 @@
 ### Clouds
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic)
 
-### Wanna contact me? 🤝
+## Wanna contact me? 🤝
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/raissa-cordeiro-1a44121a7)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raissacordeirosb@gmail.com)
