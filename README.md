@@ -1,10 +1,10 @@
-## Hey 👋, I'm Raissa❤️**!
+## Hey 👋, I'm Raissa❤️!
 
 - I am a Front End Developer React.JS and ChatBot Watson Assistant!
 - I'm finishing my computer engineering college at IFF.
 
 
-## My Knowledge and Skills ⭐**
+## My Knowledge and Skills ⭐
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&style=plastic)
