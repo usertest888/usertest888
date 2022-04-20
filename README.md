@@ -4,6 +4,8 @@
 - I'm finishing my computer engineering college at Instituto Federal Fluminense
 - I am passionate and specialized in artificial intelligence for ChatBot development and I'm also specializing in web/mobile front development using React.js
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raissaCB&layout=compact">
+
 ## My Knowledge and Skills ⭐
 
 ### Languages
@@ -36,5 +38,4 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/raissa-cordeiro-1a44121a7)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raissacordeirosb@gmail.com)
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raissaCB&layout=compact">
 
