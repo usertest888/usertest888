@@ -4,6 +4,8 @@
 - I'm finishing my computer engineering college at IFF
 - I am passionate and specialized in artificial intelligence for the ChatBot development and I'm also specializing in web/mobile front development using React.js
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raissaCB&layout=compact">
+
 ## My Knowledge and Skills ⭐
 
 ### Languages
@@ -31,6 +33,3 @@
 
 ### Clouds
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic)
-
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raissaCB&layout=compact">
