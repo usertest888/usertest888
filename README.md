@@ -1,4 +1,4 @@
-### Hey 👋, I'm Jack yu.
+## Hey 👋, I'm Jack yu.
 
 - I am a **Programming rookie** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
@@ -9,7 +9,7 @@
 - **luckily I slowly fell in love with it. ❤️**
 
 
-**My Knowledge and Skills**
+## My Knowledge and Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&style=plastic)
